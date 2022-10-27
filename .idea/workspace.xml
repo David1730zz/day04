@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="568d4b63-7d1c-4f9f-93fb-12d00ef72e2b" name="变更" comment="day04">
+    <list default="true" id="568d4b63-7d1c-4f9f-93fb-12d00ef72e2b" name="变更" comment="day04的测试">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scanner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +40,28 @@
     ]
   }
 }]]></component>
+  <component name="RunManager" selected="应用程序.ScannerTest">
+    <configuration name="Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scanner" />
+      <module name="day04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScannerTest" />
+      <module name="day04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.ScannerTest" />
+        <item itemvalue="应用程序.Scanner" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -76,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666841251805</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="day04的测试">
+      <created>1666841372508</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666841372508</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -103,6 +133,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="day04" />
-    <option name="LAST_COMMIT_MESSAGE" value="day04" />
+    <MESSAGE value="day04的测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="day04的测试" />
   </component>
 </project>
