@@ -1,5 +1,14 @@
 /*
 对学生成绩大于60分的输出合格，低于60分的，输出不合格
+如果switch-case语句的多个case执行路径相同，则可以合并，如：
+case 0:
+case 1:
+case 2:
+case 3:
+case 4:
+case 5:
+case 6:
+        System.out.println("timing out");
  */
 import java.util.Scanner;
 class SwitchTest {

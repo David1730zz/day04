@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="568d4b63-7d1c-4f9f-93fb-12d00ef72e2b" name="变更" comment="2022/10/28">
-      <change afterPath="$PROJECT_DIR$/src/IfExer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwitchCase_Learning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwitchTest.java" afterDir="false" />
+    <list default="true" id="568d4b63-7d1c-4f9f-93fb-12d00ef72e2b" name="变更" comment="2022/10/31">
+      <change afterPath="$PROJECT_DIR$/src/SwitchCaseExer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IfExer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IfExer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SwitchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwitchTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,14 +46,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.SwitchTest">
-    <configuration name="IfExer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IfExer" />
-      <module name="day04" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.SwitchCaseExer">
     <configuration name="IfExer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IfExer1" />
       <module name="day04" />
@@ -69,6 +61,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SwitchCaseExer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchCaseExer" />
+      <module name="day04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SwitchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SwitchTest" />
       <module name="day04" />
@@ -76,26 +75,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.place.IfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.place.IfTest" />
+    <configuration name="SwitchTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchTest2" />
       <module name="day04" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.place.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.SwitchCaseExer" />
+        <item itemvalue="应用程序.SwitchTest2" />
         <item itemvalue="应用程序.SwitchTest" />
         <item itemvalue="应用程序.IfTest" />
         <item itemvalue="应用程序.IfExer1" />
-        <item itemvalue="应用程序.IfExer" />
-        <item itemvalue="应用程序.com.place.IfTest" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666938490136</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2022/10/31">
+      <created>1667182527920</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667182527920</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -186,6 +186,7 @@
     <MESSAGE value="day04" />
     <MESSAGE value="day04的测试" />
     <MESSAGE value="2022/10/28" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022/10/28" />
+    <MESSAGE value="2022/10/31" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022/10/31" />
   </component>
 </project>
