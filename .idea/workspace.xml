@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="568d4b63-7d1c-4f9f-93fb-12d00ef72e2b" name="变更" comment="2022/10/31">
-      <change afterPath="$PROJECT_DIR$/src/ForTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileTest.java" afterDir="false" />
+    <list default="true" id="568d4b63-7d1c-4f9f-93fb-12d00ef72e2b" name="变更" comment="2022/11/9/">
+      <change afterPath="$PROJECT_DIR$/src/BreakContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DoWhileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForWhileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QianTaoTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WhileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WhileTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/java_dep&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;ChangesTree.GroupingKeys&quot;: [
@@ -47,30 +49,30 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="应用程序.WhileTest">
-    <configuration name="ForTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForTest" />
+  <component name="RunManager" selected="应用程序.PrimeTest">
+    <configuration name="DoWhileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoWhileTest" />
       <module name="day04" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForTest1" />
+    <configuration name="ForWhileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForWhileTest" />
       <module name="day04" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchCaseExer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwitchCaseExer" />
+    <configuration name="PrimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeTest" />
       <module name="day04" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwitchTest2" />
+    <configuration name="QianTaoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QianTaoTest" />
       <module name="day04" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.PrimeTest" />
+        <item itemvalue="应用程序.QianTaoTest" />
+        <item itemvalue="应用程序.ForWhileTest" />
+        <item itemvalue="应用程序.DoWhileTest" />
         <item itemvalue="应用程序.WhileTest" />
-        <item itemvalue="应用程序.ForTest1" />
-        <item itemvalue="应用程序.ForTest" />
-        <item itemvalue="应用程序.SwitchCaseExer" />
-        <item itemvalue="应用程序.SwitchTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667202937705</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2022/11/9/">
+      <created>1667982921169</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667982921169</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -195,6 +204,7 @@
     <MESSAGE value="day04的测试" />
     <MESSAGE value="2022/10/28" />
     <MESSAGE value="2022/10/31" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022/10/31" />
+    <MESSAGE value="2022/11/9/" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022/11/9/" />
   </component>
 </project>
